@@ -1,0 +1,44 @@
+body {
+  background-color: #00688b;
+}
+
+
+h1 {
+  font-family: karma, cursive;
+  color: #efd55d;
+}
+
+.text-align {
+  text-align: center;
+}
+
+ol,
+ul {
+  background-color: #efd55d;
+}
+
+.karma-font {
+  font-family: karma, cursive;
+}
+
+h2 {
+  font-family: cursive;
+}
+
+button {
+  border: 2px;
+  padding: .25rem .5rem;
+  background-color: #efd55d;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.dashed {
+	border-style: dashed solid dashed solid;
+	padding: 10px;
+}
